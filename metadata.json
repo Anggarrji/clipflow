@@ -1,0 +1,8 @@
+{
+  "name": "ClipFlow AI",
+  "description": "An AI-powered video workflow to transform long-form content into viral clips for TikTok, YouTube Shorts, and Instagram Reels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
